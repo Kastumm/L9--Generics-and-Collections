@@ -26,6 +26,7 @@ namespace LessonL9
         }
 
         //Everything else in my project!
+        //Dictionary, Enums, Nullable Properties
         //GenericRipositoryPattern implemented in my Project
 
     }
